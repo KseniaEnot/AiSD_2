@@ -1,0 +1,9 @@
+﻿  lab2.cpp
+C:\Users\Ксения\Documents\универ дз\3 сем\ALGORITMI\lab2\lab2\lab2\lab2.cpp(72,13): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\Ксения\Documents\универ дз\3 сем\ALGORITMI\lab2\lab2\lab2\lab2.cpp(77,25): warning C4244: аргумент: преобразование "__int64" в "long", возможна потеря данных
+C:\Users\Ксения\Documents\универ дз\3 сем\ALGORITMI\lab2\lab2\lab2\lab2.cpp(81,22): warning C4244: аргумент: преобразование "__int64" в "long", возможна потеря данных
+C:\Users\Ксения\Documents\универ дз\3 сем\ALGORITMI\lab2\lab2\lab2\lab2.cpp(86,14): warning C4244: аргумент: преобразование "__int64" в "long", возможна потеря данных
+C:\Users\Ксения\Documents\универ дз\3 сем\ALGORITMI\lab2\lab2\lab2\lab2.cpp(165,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксения\Documents\универ дз\3 сем\ALGORITMI\lab2\lab2\lab2\lab2.cpp(179,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксения\Documents\универ дз\3 сем\ALGORITMI\lab2\lab2\lab2\lab2.cpp(190,23): warning C4018: <: несоответствие типов со знаком и без знака
+  lab2.vcxproj -> C:\Users\Ксения\Documents\универ дз\3 сем\ALGORITMI\lab2\lab2\Debug\lab2.lib
